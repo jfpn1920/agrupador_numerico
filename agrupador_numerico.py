@@ -5,6 +5,9 @@ tipos = []
 fechas = []
 descripciones = []
 observaciones = []
+#---------------------------------------#
+#--|menu_principal_agrupador_numérico|--#
+#---------------------------------------#
 while True:
     print("menu principal agrupador numérico")
     print("1) crear número")
